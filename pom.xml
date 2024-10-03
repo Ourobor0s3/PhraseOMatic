@@ -69,6 +69,12 @@
     </build>
 
     <dependencies>
+        <!-- https://mvnrepository.com/artifact/io.github.serpro69/kotlin-faker -->
+        <dependency>
+            <groupId>io.github.serpro69</groupId>
+            <artifactId>kotlin-faker</artifactId>
+            <version>1.16.0</version>
+        </dependency>
         <dependency>
             <groupId>org.jetbrains.kotlin</groupId>
             <artifactId>kotlin-test-junit5</artifactId>
